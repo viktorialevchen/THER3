@@ -1,0 +1,107 @@
+.col-12{
+    height: 3rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.img1{
+    width: 2rem;
+   height: 2rem;
+}
+.img{
+    width: 4rem;
+    height: 2rem;
+  
+   
+}
+.img3{
+    width: 3rem;
+    height: 2rem;
+}
+.img4{
+    width: 3rem;
+    height: 2rem;
+}
+.img5{
+    width: 3rem;
+    height: 2rem;
+    margin-right: 1rem;
+}
+.img6{
+    width: 3rem;
+    margin-right: 2rem;
+}
+.img7{
+    width: 3rem;
+    height: 2rem;
+}
+.img8{
+    width: 2rem;
+    height: 1rem;
+}
+.input{
+    width: 19rem;
+   
+}
+.img9{
+    width: 3rem;
+    height: 2rem;
+}
+.col-lg-12{
+    height: 43rem;
+}
+.col-11{
+    height: 43rem;
+    margin: auto;
+}
+.div1{
+    display: flex;
+}
+.col-lg-9{
+    height: 43rem;
+   
+}
+.col-3{
+    height: 43rem;
+}
+.col-md-12{
+    height: 5rem;
+}
+.col-xl-12{
+    height: 5rem;
+  display: flex;
+  align-items:center;
+  justify-content: start;
+  border-top: 1px solid;
+  border-top:1px solid ;
+
+   
+}
+.col-xl-1{
+  
+    height: 4.8rem;
+   
+}
+.col-md-5{
+    height: 7rem;
+}
+.col-md-7{
+    height: 7rem;
+    }
+
+.div{
+    display: flex;
+}
+
+.div2{
+    display: flex;
+}
+.p1{
+color: darkgray;
+}
+.img11{
+    height: 4.8rem;
+}
+.p3{
+    color: gray;
+}
